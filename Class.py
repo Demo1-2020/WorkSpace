@@ -16,9 +16,9 @@ class Employee:
       print "Name : ", self.name,  ", Salary: ", self.salary
 	  
 "This would create first object of Employee class"
-emp1 = Employee("Zaraa", 2000)
+emp1 = Employee("Zara Ali", 2000)
 "This would create second object of Employee class"
-emp2 = Employee("Mannireddy", 5000)
+emp2 = Employee("ManniReddy", 5000)
 emp1.displayEmployee()
 emp2.displayEmployee()
-print "Total Employee count %d" % Employee.empCount
+print "Total Employee_sale count %d" % Employee.empCount
