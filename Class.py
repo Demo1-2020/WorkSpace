@@ -24,4 +24,4 @@ emp2 = Employee("Manni Reddy", 5000)
 emp1.displayEmployee()
 emp2.displayEmployee()
 print "Total Employee_sales_FMCG count %d" % Employee.empCount
-# >>>>>>> hotfix
+"code ends here"
